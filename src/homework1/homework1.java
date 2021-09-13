@@ -5,4 +5,8 @@ public class homework1 {
     public void student(String home) {
         Homework=home;
     }
+    public static void main(String[] args){
+        Homework one=new Homework("commit");
+        System.out.println(one);
+    }
 }
