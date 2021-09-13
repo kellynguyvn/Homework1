@@ -1,6 +1,0 @@
-public class secondCommit {
-  public static void main(String[] args){
-    firstCommit c= new firstCommit(10, "commit");
-    System.outprintln(c);
-    }
- }
