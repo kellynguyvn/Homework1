@@ -1,8 +1,0 @@
-class firstCommit{
-  private int first;
-  private string commit;
-  
-  public firstCommit(int one, String com){
-    first=one;
-    commit=com;
-  }
